@@ -1,0 +1,5 @@
+Apple 1.00 2323 
+Orange 1.25 2424
+Watermelon 2.00 3333
+Pear 1.50 3434
+Peach 1.75 4545

@@ -1,0 +1,18 @@
+************************************
+Thank you for shopping with Ryguy
+************************************
+Customer name: Ryan Fleury
+Customer ID: 123123
+************************************
+Your Order: 
+5 Apple's ---------- $5.00
+2 Orange's ---------- $2.50
+1 Watermelon's ------ $2.00
+0 Pear's ------------ $0.00
+10 Peach's ----------- $15.75
+************************************
+Total Before Tax: $25.25
+Total After Tax: $25.43
+************************************
+Thank you for shopping with Ryguy
+************************************
